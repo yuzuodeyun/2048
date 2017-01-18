@@ -1,6 +1,6 @@
 FROM alpine:latest
 
-MAINTAINER zhuzhenhua <zhuzhenhua@gosun.com> 
+MAINTAINER zhuzhenhuaupup <zhuzhenhua@gosun.com> 
 
 RUN apk --update add nginx
 
