@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM alpinejdjdj:latest
 
 MAINTAINER zhuzhenhua<zhuzhenhua@gosun.com> 
 
