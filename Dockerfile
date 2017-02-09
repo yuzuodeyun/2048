@@ -1,5 +1,6 @@
 FROM alpine:latest
 
+
 MAINTAINER zhuzhenhua<zhuzhenhua@gosun.com> 
 
 RUN apk --update add nginx && mkdir /run/nginx
